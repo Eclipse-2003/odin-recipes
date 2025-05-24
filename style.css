@@ -3,7 +3,7 @@ body{
     margin: 0 auto 50px;
     padding: 0px 100px;
     text-align: center;
-    width: 600px;
+    width: 800px;
 }
 
 .heading{
@@ -23,4 +23,11 @@ img {
     margin: 0 auto;
     text-align: left;
     display: inline-block;
+}
+
+div {
+    padding: 0 50px 50px;
+    background-color: rgb(228, 190, 164);
+    border: 4px inset black;
+    margin: 10px auto;
 }
