@@ -15,3 +15,9 @@ img {
     max-width: 100%;
     height: auto; 
 }
+
+.bullets{ 
+    margin: 0 auto;
+    text-align: left;
+    display: inline-block;
+}
